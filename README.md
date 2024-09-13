@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndersonFJ
-- 👀 I’m interested in sport & movie
-- 🌱 I’m currently learning qulity process management
-- 💞️ I’m looking to collaborate on web 
+- 👀 I’m interested in sport & movies
+- 🌱 I’m currently learning quality process management
+- 💞️ I’m looking to collaborate on the web 
 - 📫 How to reach me 704910115@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
